@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Eliza Yasunari Urbina Gómez[22211768]; l22211768@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
